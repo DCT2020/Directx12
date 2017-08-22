@@ -1,0 +1,1 @@
+c:\Users\digitalgame\documents\visual studio 2015\Projects\Dx12Practice\Dx12Practice\Dx12Practice.vcxproj;x86
